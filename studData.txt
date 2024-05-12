@@ -1,0 +1,2 @@
+1001,Edwin,BSCS,3rd Year,BSIT3A
+1002,James,BSIT,2nd Year,BSIT2A
